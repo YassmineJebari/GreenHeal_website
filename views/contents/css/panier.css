@@ -1,0 +1,121 @@
+.cart_panier_title {
+  text-align: left !important;
+  font-size: 5rem;
+  padding-top: 5rem;
+  font-weight: 600;
+}
+.panierCart_section {
+  padding-top: 14rem;
+  padding-left: 6rem;
+  padding-right: 6rem;
+}
+
+.img_panier-table {
+  width: 9rem;
+  height: 7rem;
+  margin-right: 3rem;
+  border-radius: 5px;
+}
+
+#myTable {
+  padding-bottom: 3rem;
+}
+
+.cart__total_groupe {
+  padding-bottom: 2rem;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.cart__total_v1 {
+  padding-right: 10rem;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.cart__total_v2 {
+  text-align: right;
+  font-size: 3rem;
+  font-weight: 700;
+}
+
+.placeOrder_btn {
+  display: block;
+  text-decoration: none;
+  background-color: #4a8b60;
+  color: white;
+  display: flex;
+  justify-content: center;
+  width: 20%;
+  font-size: 2rem;
+  font-weight: 700;
+  padding: 1rem 2rem;
+  border-radius: 15px;
+  position: relative;
+  left: 80.5%;
+  margin-bottom: 10rem;
+}
+
+.placeOrder_btn:hover {
+  background-color: #4b7559;
+  color: white;
+}
+
+.plus__commande {
+  font-size: 2rem;
+
+  border-radius: 50%;
+  padding: 0.1rem 0.8rem;
+}
+
+.plus__commande:hover {
+  color: #4a8b60;
+  background-color: white;
+}
+.moins__commande {
+  font-size: 2.3rem;
+  position: relative;
+  top: 0.15rem;
+  border-radius: 50%;
+  padding: 0 1.1rem;
+}
+
+.moins__commande:hover {
+  color: #4a8b60;
+  background-color: white;
+}
+
+.price__commande {
+  font-size: 2rem;
+  padding-left: 1rem;
+  padding-right: 0.8rem;
+}
+
+.delte_btn__panier {
+  padding: 0.5rem 1rem;
+  border-radius: 15px;
+}
+
+.delte_btn__panier:hover {
+  background-color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 15px;
+}
+
+.cart-icon {
+  width: 30px;
+}
+
+.cart-icon__span {
+  position: relative;
+  bottom: 5rem;
+  left: 2rem;
+  background-color: white;
+  border-radius: 50%;
+  padding: 0.2rem 0.5rem;
+  color: #4a8b60;
+  padding-left: 0.9rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-right: 0.8rem;
+}
